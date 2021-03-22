@@ -62,7 +62,7 @@ public class BanquierEjb {
       System.out.print("4. Creer Un nouveau Compte Partager\n");
       System.out.print("5. Consulter Un Compte prive\n");
       System.out.print("6. Consulter Un Compte partager\n");
-      System.out.print("7. Chercher Un Compte Professionel \n");
+      System.out.print("7. Chercher Client Particlulier \n");
       System.out.print("8. Exit \n");
       System.out.print("Entrer le choix:");
    }
