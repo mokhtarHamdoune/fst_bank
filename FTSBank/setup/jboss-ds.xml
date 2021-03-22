@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources>
+   <local-tx-datasource>
+      <jndi-name>ejb</jndi-name>
+      <connection-url>jdbc:postgresql://localhost:5432/ejb</connection-url>
+      <driver-class>org.postgresql.driver</driver-class>
+      <user-name>openpg</user-name>
+      <password>openpgpwd</password>
+   </local-tx-datasource>
+</datasources>
